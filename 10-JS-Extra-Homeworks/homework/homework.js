@@ -129,6 +129,9 @@ function buscoInterseccion(arreglo1, arreglo2) {
   }
   return inter;
 }
+// otra forma:
+// arrayInterseccion = arreglo1.filter(value => arreglo2.includes(value))
+// return arrayInterseccion;
 
 // No modificar nada debajo de esta línea
 // --------------------------------
