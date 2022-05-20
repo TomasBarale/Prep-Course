@@ -132,7 +132,7 @@ function buscoInterseccion(arreglo1, arreglo2) {
 // otra forma:
 // arrayInterseccion = arreglo1.filter(value => arreglo2.includes(value))
 // return arrayInterseccion;
-
+// .filter toma un valor y lo compara con otro
 // No modificar nada debajo de esta línea
 // --------------------------------
 
